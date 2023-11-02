@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main() 
+{
+
+  printf("hello world gjj202103060234\n");
+  
+}
